@@ -1,20 +1,23 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQF8P4kEDzKOyg/profile-displaybackgroundimage-shrink_200_800/0/1686020953057?e=2147483647&v=beta&t=TIbiwbnO_IgUhvZZ4e_ItTzJp_v8N0d4BW_LYPPtnO4)
+# Welcome to Utkarsh Payal's GitHub Profile!
 
-<h1 align="center">Hi 👋, I'm Utkarsh Payal </h1>
- 💫 About Me:<br>
-I am Currently a Student<br>🌱 I’m currently learning **Cyber Security & Machine learning**<br>👯 I’m looking to collaborate on **Open source Project.**<br>💬 Ask me about **Java, C++, MySQL, Web Development, Cyber Security**<br> 📫 How to reach me **utkarsh12march2004@gmail.com**<br> ⚡  Fact **I am a defence asperent**
+![Utkarsh Payal](https://media.licdn.com/dms/image/D4D16AQF8P4kEDzKOyg/profile-displaybackgroundimage-shrink_200_800/0/1686020953057?e=2147483647&v=beta&t=TIbiwbnO_IgUhvZZ4e_ItTzJp_v8N0d4BW_LYPPtnO4)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## Hi there! 👋
+
+I'm **Utkarsh Payal**, a passionate learner and a student. I am currently exploring the exciting fields of **Cyber Security** and **Machine Learning**. I'm always on the lookout for opportunities to collaborate on **Open Source Projects**.
+
+- 🌱 I’m currently learning **Cyber Security** and **Machine Learning** to enhance my skills.
+- 💬 Ask me about **Java, C++, MySQL, Web Development, and Cyber Security** - I'm happy to help!
+- 📫 You can reach me at **utkarsh12march2004@gmail.com**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-payal/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-payal/)
 
 <!--Coding platform-->
 ## ‍💻 Coding Profile:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Utkarsh_Payal/)
- 
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,18 +32,20 @@ I am Currently a Student<br>🌱 I’m currently learning **Cyber Security & Mac
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 
+## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utkarshpayal&)
 
-<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpayal&" alt="utkarshpayal" /></div>
+![GitHub Stats](https://github-readme-stats-mu-dusky.vercel.app/api?username=utkarshpayal&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=utkarshpayal&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+### 🔝 Top Contributed Repositories:
 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=utkarshpayal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repo
-<hr>
+## Visitor Count:
 
-![](https://github-contributor-stats.vercel.app/api?username=utkarshpayal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=utkarshpayal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utkarshpayal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+_This README is a work in progress and will be updated with more cool stuff soon!_
