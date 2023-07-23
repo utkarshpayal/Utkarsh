@@ -1,6 +1,7 @@
 # Welcome to Utkarsh Payal's GitHub Profile!
 
-![Utkarsh Payal](https://media.licdn.com/dms/image/D4D16AQF8P4kEDzKOyg/profile-displaybackgroundimage-shrink_200_800/0/1686020953057?e=2147483647&v=beta&t=TIbiwbnO_IgUhvZZ4e_ItTzJp_v8N0d4BW_LYPPtnO4)
+![utkarshpayal](https://github.com/utkarshpayal/Utkarsh/raw/main/Colorful%20Shapes%20Header%20Banner.png)
+
 
 ## Hi there! 👋
 
