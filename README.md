@@ -50,7 +50,7 @@ I'm **Utkarsh Payal**, a passionate learner and a student. I am currently explor
 
 ## Visitor Count:
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=utkarshpayal&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=utkarshpayal&color=blueviolet)
 
 ---
 
