@@ -40,7 +40,7 @@ I am Currently a Student<br>🌱 I’m currently learning **Cyber Security & Mac
 ### 🔝 Top Contributed Repo
 <hr>
 
-![](https://github.com/utkarshpayal/Face-Recognation-Attendance-System/api?username=utkarshpayal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=utkarshpayal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://github.com/utkarshpayal/MyPortfolio/api?id=utkarshpayal&icon=0&color=0)]
+[![](https://visitcount.itsvg.in/api?id=utkarshpayal&icon=0&color=0)](https://visitcount.itsvg.in)
